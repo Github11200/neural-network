@@ -1,0 +1,17 @@
+# Compiled binaries
+/main
+/nn
+
+# Rust
+target/
+*.rs.bk
+
+# Object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# Editor / OS junk
+.DS_Store
+*.swp
